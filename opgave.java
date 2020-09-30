@@ -1,5 +1,5 @@
-public class opgave{
+public class Hello World{
     public static void main(String[] args) {
-        System.out.println("hej");
+        System.out.println("Hello, World!");
     }
 }
